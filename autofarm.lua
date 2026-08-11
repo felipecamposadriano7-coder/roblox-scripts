@@ -1,2 +1,2 @@
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/SEU_USUARIO/roblox-scripts/main/autofarm.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/felipecamposadriano7-coder/roblox-scripts/main/autofarm.lua"))()
